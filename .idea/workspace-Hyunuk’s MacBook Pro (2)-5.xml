@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="pa3" targetName="pa3test" />
+      <config projectName="pa3" targetName="pa3" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b4e04f4-4724-4c7f-a112-2be3ca8abd5c" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.4484536">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/testComp.cpp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="191">
+                  <caret line="73" selection-start-line="73" selection-end-line="73" />
+                  <folding>
+                    <element signature="e#26#56#0" expanded="true" />
+                    <element signature="e#328#507#0" />
+                    <element signature="e#566#1058#0" />
+                    <element signature="e#1118#1531#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/cs221util/catch.hpp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="114">
+                  <caret line="7354" selection-start-line="7354" selection-end-line="7354" />
+                  <folding>
+                    <element signature="e#14002#14020#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/toqutree.cpp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="127">
+                  <caret line="75" column="18" lean-forward="true" selection-start-line="75" selection-start-column="18" selection-end-line="75" selection-end-column="18" />
+                  <folding>
+                    <element signature="e#1#131#0" />
+                    <element signature="e#10275#10326#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/images/stanleySquare.png">
+              <provider selected="true" editor-type-id="images" />
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/toqutree.h">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2008">
+                  <caret line="164" column="12" selection-start-line="164" selection-end-line="165" />
+                  <folding>
+                    <element signature="e#174#192#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sumHueX</find>
+      <find>getProp</find>
+      <find>geta</find>
+      <find>counter</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/stats.h" />
+        <option value="$PROJECT_DIR$/Makefile" />
+        <option value="$PROJECT_DIR$/stats.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/testComp.cpp" />
+        <option value="$PROJECT_DIR$/toqutree.h" />
+        <option value="$PROJECT_DIR$/toqutree.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="12" />
+    <option name="y" value="63" />
+    <option name="width" value="1920" />
+    <option name="height" value="824" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pa3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pa3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pa3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pa3" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/pa3.dir" />
+      <recent name="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/pa3test.dir" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Catch.toqutree::basic ctor render">
+    <configuration name="stats::basic entropy" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pa3" TARGET_NAME="pa3test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="pa3" RUN_TARGET_NAME="pa3test" TEST_CLASS="[weight=1][part=stats]" TEST_METHOD="stats::basic entropy" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stats::basic getAvg" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pa3" TARGET_NAME="pa3test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="pa3" RUN_TARGET_NAME="pa3test" TEST_CLASS="[weight=1][part=stats]" TEST_METHOD="stats::basic getAvg" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stats::basic rectArea" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pa3" TARGET_NAME="pa3test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="pa3" RUN_TARGET_NAME="pa3test" TEST_CLASS="[weight=1][part=stats]" TEST_METHOD="stats::basic rectArea" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="toqutree::basic copy" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" temporary="true" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pa3" TARGET_NAME="pa3test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="pa3" RUN_TARGET_NAME="pa3test" TEST_CLASS="[weight=1][part=toqutree]" TEST_METHOD="toqutree::basic copy" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="toqutree::basic ctor render" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" temporary="true" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pa3" TARGET_NAME="pa3test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="pa3" RUN_TARGET_NAME="pa3test" TEST_CLASS="[weight=1][part=toqutree]" TEST_METHOD="toqutree::basic ctor render" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pa3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pa3" TARGET_NAME="pa3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="pa3" RUN_TARGET_NAME="pa3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pa3test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pa3" TARGET_NAME="pa3test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="pa3" RUN_TARGET_NAME="pa3test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.pa3" />
+      <item itemvalue="Application.pa3test" />
+      <item itemvalue="Catch.stats::basic entropy" />
+      <item itemvalue="Catch.stats::basic getAvg" />
+      <item itemvalue="Catch.stats::basic rectArea" />
+      <item itemvalue="Catch.toqutree::basic ctor render" />
+      <item itemvalue="Catch.toqutree::basic copy" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Catch.toqutree::basic ctor render" />
+        <item itemvalue="Catch.toqutree::basic copy" />
+        <item itemvalue="Catch.stats::basic entropy" />
+        <item itemvalue="Catch.stats::basic getAvg" />
+        <item itemvalue="Catch.stats::basic rectArea" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b4e04f4-4724-4c7f-a112-2be3ca8abd5c" name="Default Changelist" comment="" />
+      <created>1552527374475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552527374475</updated>
+      <workItem from="1552527376837" duration="387000" />
+      <workItem from="1552805662164" duration="2592000" />
+      <workItem from="1552862672022" duration="13047000" />
+      <workItem from="1552935689931" duration="139000" />
+      <workItem from="1552962542729" duration="18152000" />
+      <workItem from="1552986862166" duration="20658000" />
+      <workItem from="1553131620328" duration="11380000" />
+      <workItem from="1553155516195" duration="4000" />
+      <workItem from="1553566838429" duration="12000" />
+      <workItem from="1553566956819" duration="13000" />
+      <workItem from="1553567010337" duration="338000" />
+      <workItem from="1553577038051" duration="1204000" />
+      <workItem from="1553642883541" duration="9064000" />
+      <workItem from="1553659936295" duration="51000" />
+      <workItem from="1553659999182" duration="9677000" />
+      <workItem from="1553717106812" duration="5000" />
+      <workItem from="1553727579638" duration="10637000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="toqutree__basic_copy - 2019.03.27 at 04h 14m 30s.xml">
+      <configuration name="toqutree::basic copy" configurationId="CMakeCatchTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="toqutree__basic_copy - 2019.03.27 at 04h 15m 18s.xml">
+      <configuration name="toqutree::basic copy" configurationId="CMakeCatchTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="toqutree__basic_copy - 2019.03.27 at 04h 16m 45s.xml">
+      <configuration name="toqutree::basic copy" configurationId="CMakeCatchTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="toqutree__basic_ctor_render - 2019.03.27 at 04h 24m 38s.xml">
+      <configuration name="toqutree::basic ctor render" configurationId="CMakeCatchTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="toqutree__basic_ctor_render - 2019.03.27 at 04h 28m 06s.xml">
+      <configuration name="toqutree::basic ctor render" configurationId="CMakeCatchTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="toqutree__basic_copy - 2019.03.27 at 04h 29m 46s.xml">
+      <configuration name="toqutree::basic copy" configurationId="CMakeCatchTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="toqutree__basic_ctor_render - 2019.03.27 at 16h 06m 36s.xml">
+      <configuration name="toqutree::basic ctor render" configurationId="CMakeCatchTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="toqutree__basic_ctor_render - 2019.03.27 at 16h 38m 32s.xml">
+      <configuration name="toqutree::basic ctor render" configurationId="CMakeCatchTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="toqutree__basic_ctor_render - 2019.03.27 at 21h 42m 06s.xml">
+      <configuration name="toqutree::basic ctor render" configurationId="CMakeCatchTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="toqutree__basic_ctor_render - 2019.03.27 at 21h 44m 49s.xml">
+      <configuration name="toqutree::basic ctor render" configurationId="CMakeCatchTestRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="116925000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="12" y="63" width="1920" height="824" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.15548456" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3290398" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49872124" weight="0.35494506" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.46262342" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3290398" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3173302" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50127876" side_tool="true" weight="0.41217798" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49973333" weight="0.59661496" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.32967034" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="make" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/testComp.cpp</url>
+          <line>73</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/images/color.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../PAs-Omar/sumbitted solutions-for ref only/PA3-master/stats.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-612">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BNZ.5c93170e24f46c97/stats.h" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BNZ.5c93173724f50c13/stats.cpp" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BNZ.5c93173624f50983/stats.h" />
+    <entry file="file://C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_vector.h" />
+    <entry file="file://C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_iterator.h" />
+    <entry file="file://C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_uninitialized.h" />
+    <entry file="file://C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_algobase.h" />
+    <entry file="file://C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/cpp_type_traits.h" />
+    <entry file="file://C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/ext/alloc_traits.h" />
+    <entry file="file://C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/alloc_traits.h" />
+    <entry file="file://C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/allocator.h" />
+    <entry file="file://C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/ext/new_allocator.h" />
+    <entry file="file://$PROJECT_DIR$/lodepng.o">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-141" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs221util/json.hpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BNZ.5c99e2593f7eb9d6/toqutree.h" />
+    <entry file="file://$PROJECT_DIR$/cs221util/RGBAPixel.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-561" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs221util/HSLAPixel.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="53" column="53" selection-start-line="53" selection-start-column="53" selection-end-line="53" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs221util/HSLAPixel.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2179" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/stdio.h" />
+    <entry file="file://$PROJECT_DIR$/cs221util/lodepng/lodepng.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="354" column="12" selection-start-line="354" selection-start-column="12" selection-end-line="354" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../PAs-Omar/sumbitted solutions-for ref only/PA3-master/twoDtree.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="264" column="35" selection-start-line="264" selection-start-column="35" selection-end-line="264" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../PAs-Omar/sumbitted solutions-for ref only/PA3-master/twoDtree.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="86" column="5" selection-start-line="86" selection-start-column="5" selection-end-line="86" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Developer/CommandLineTools/usr/include/c++/v1/vector" />
+    <entry file="file:///Library/Developer/CommandLineTools/usr/include/c++/v1/math.h" />
+    <entry file="file://$PROJECT_DIR$/cs221util/PNG.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1450">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/cmath" />
+    <entry file="file://$PROJECT_DIR$/images/out-geo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/out-stanleySquare.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs221util/PNG.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="76" column="14" selection-start-line="76" selection-start-column="14" selection-end-line="76" selection-end-column="14" />
+          <folding>
+            <element signature="e#169#188#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/ada.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/adaPrune.05.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/canadaPlace.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/geo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/oneSmall.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/oneSquare.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/twoSquares.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stats.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-288">
+          <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stats.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toqutree.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2008">
+          <caret line="164" column="12" selection-start-line="164" selection-end-line="165" />
+          <folding>
+            <element signature="e#174#192#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/stanleySquare.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/ubc-totem-poles.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file:///Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/stdlib.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="143" column="31" lean-forward="true" selection-start-line="143" selection-start-column="31" selection-end-line="143" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs221util/catch.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="7354" selection-start-line="7354" selection-end-line="7354" />
+          <folding>
+            <element signature="e#14002#14020#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testComp.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+          <folding>
+            <element signature="e#26#56#0" expanded="true" />
+            <element signature="e#328#507#0" />
+            <element signature="e#566#1058#0" />
+            <element signature="e#1118#1531#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toqutree.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="75" column="18" lean-forward="true" selection-start-line="75" selection-start-column="18" selection-end-line="75" selection-end-column="18" />
+          <folding>
+            <element signature="e#1#131#0" />
+            <element signature="e#10275#10326#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
