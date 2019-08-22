@@ -4,14 +4,14 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/hyunuk/OneDrive - Langara College/01.UBC/CPSC221/PA/Mine/pa3/cs221util/HSLAPixel.cpp" "C:/Users/hyunuk/OneDrive - Langara College/01.UBC/CPSC221/PA/Mine/pa3/cmake-build-debug/CMakeFiles/pa3test.dir/cs221util/HSLAPixel.cpp.obj"
-  "C:/Users/hyunuk/OneDrive - Langara College/01.UBC/CPSC221/PA/Mine/pa3/cs221util/PNG.cpp" "C:/Users/hyunuk/OneDrive - Langara College/01.UBC/CPSC221/PA/Mine/pa3/cmake-build-debug/CMakeFiles/pa3test.dir/cs221util/PNG.cpp.obj"
-  "C:/Users/hyunuk/OneDrive - Langara College/01.UBC/CPSC221/PA/Mine/pa3/cs221util/lodepng/lodepng.cpp" "C:/Users/hyunuk/OneDrive - Langara College/01.UBC/CPSC221/PA/Mine/pa3/cmake-build-debug/CMakeFiles/pa3test.dir/cs221util/lodepng/lodepng.cpp.obj"
-  "C:/Users/hyunuk/OneDrive - Langara College/01.UBC/CPSC221/PA/Mine/pa3/stats.cpp" "C:/Users/hyunuk/OneDrive - Langara College/01.UBC/CPSC221/PA/Mine/pa3/cmake-build-debug/CMakeFiles/pa3test.dir/stats.cpp.obj"
-  "C:/Users/hyunuk/OneDrive - Langara College/01.UBC/CPSC221/PA/Mine/pa3/testComp.cpp" "C:/Users/hyunuk/OneDrive - Langara College/01.UBC/CPSC221/PA/Mine/pa3/cmake-build-debug/CMakeFiles/pa3test.dir/testComp.cpp.obj"
-  "C:/Users/hyunuk/OneDrive - Langara College/01.UBC/CPSC221/PA/Mine/pa3/toqutree.cpp" "C:/Users/hyunuk/OneDrive - Langara College/01.UBC/CPSC221/PA/Mine/pa3/cmake-build-debug/CMakeFiles/pa3test.dir/toqutree.cpp.obj"
+  "/Users/erica/Downloads/pa3 (4)/cs221util/HSLAPixel.cpp" "/Users/erica/Downloads/pa3 (4)/cmake-build-debug/CMakeFiles/pa3test.dir/cs221util/HSLAPixel.cpp.o"
+  "/Users/erica/Downloads/pa3 (4)/cs221util/PNG.cpp" "/Users/erica/Downloads/pa3 (4)/cmake-build-debug/CMakeFiles/pa3test.dir/cs221util/PNG.cpp.o"
+  "/Users/erica/Downloads/pa3 (4)/cs221util/lodepng/lodepng.cpp" "/Users/erica/Downloads/pa3 (4)/cmake-build-debug/CMakeFiles/pa3test.dir/cs221util/lodepng/lodepng.cpp.o"
+  "/Users/erica/Downloads/pa3 (4)/stats.cpp" "/Users/erica/Downloads/pa3 (4)/cmake-build-debug/CMakeFiles/pa3test.dir/stats.cpp.o"
+  "/Users/erica/Downloads/pa3 (4)/testComp.cpp" "/Users/erica/Downloads/pa3 (4)/cmake-build-debug/CMakeFiles/pa3test.dir/testComp.cpp.o"
+  "/Users/erica/Downloads/pa3 (4)/toqutree.cpp" "/Users/erica/Downloads/pa3 (4)/cmake-build-debug/CMakeFiles/pa3test.dir/toqutree.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH

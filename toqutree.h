@@ -196,13 +196,17 @@ private:
    PNG getPNG(PNG &im, pair<int, int> ul, int k);
    bool withinTol(Node *pNode, double &tol, HSLAPixel pixel);
    bool isInTheBound(int x, int y);
-   HSLAPixel* getPixelFromTree(unsigned int x, unsigned int y, toqutree::Node *curr);
+   HSLAPixel getPixelFromTree(int x, int y, toqutree::Node *curr);
    int getQuadrant(int x, int y, unsigned int rectLength);
-   int getParamXY(unsigned int coord, unsigned int ul, unsigned int length);
+   int getParamXY(int coord, int ul, int length);
    int size(Node *pNode);
 
+   PNG renderHelper(PNG & resultImg, Node * croot);
+   PNG renderInitImage(Node* croot);
+   PNG renderFourImg(PNG sePNG, PNG swPNG, PNG nePNG, PNG nwPNG, Node* croot);
    /* =================== end of private PA3 functions ============== */
 
+    int dist(int coord, int ul);
 };
 
 #endif

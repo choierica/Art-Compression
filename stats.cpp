@@ -84,7 +84,7 @@ vector<int> stats::buildHist(pair<int,int> ul, pair<int,int> lr){
         ulVec = hist[ul.first -1][ul.second -1];
     }
     for(int i = 0; i < 36; i++){
-       totalVec[i] = totalVec[i] - leftVec[i] - upVec[i] + ulVec[i];
+        totalVec[i] = totalVec[i] - leftVec[i] - upVec[i] + ulVec[i];
     }
 
     return totalVec;
@@ -93,7 +93,7 @@ vector<int> stats::buildHist(pair<int,int> ul, pair<int,int> lr){
 double stats::getHueX(HSLAPixel* pixel) {
     double s = pixel->s;
     double h = pixel->h;
-    double hueX = s * (cos(h * PI / 180.0));
+    double hueX = 1.0 * (cos(h * PI / 180.0));
 
     return hueX;
 }
@@ -101,7 +101,7 @@ double stats::getHueX(HSLAPixel* pixel) {
 double stats::getHueY(HSLAPixel* pixel) {
     double s = pixel->s;
     double h = pixel->h;
-    double hueY = s * (sin(h * PI / 180.0));
+    double hueY = 1.0 * (sin(h * PI / 180.0));
 
     return hueY;
 }
@@ -125,9 +125,9 @@ long stats::rectArea(pair<int,int> ul, pair<int,int> lr) {
 // 1.0.
 HSLAPixel stats::getAvg(pair<int,int> ul, pair<int,int> lr){
     long area = rectArea(ul, lr);
-    pair<int, int> leftCorner = make_pair(0, 0);
-    pair<int, int> upCorner = make_pair(0, 0);
-    pair<int, int> ulCorner = make_pair(0, 0);
+    pair<int, int> leftCorner = make_pair(-1, -1);
+    pair<int, int> upCorner = make_pair(-1, -1);
+    pair<int, int> ulCorner = make_pair(-1, -1);
 
     double totalHueX = sumHueX[lr.second][lr.first];
     double totalHueY = sumHueY[lr.second][lr.first];
@@ -176,28 +176,28 @@ double stats::getHueAvg(double hueX, double hueY) {
 }
 
 double stats::getSumHueX(pair<int, int> xy) {
-    if (xy.first == 0 && xy.second == 0) {
+    if (xy.first == -1 && xy.second == -1) {
         return 0;
     }
     return sumHueX[xy.second][xy.first];
 }
 
 double stats::getSumHueY(pair<int, int> xy) {
-    if (xy.first == 0 && xy.second == 0) {
+    if (xy.first == -1 && xy.second == -1) {
         return 0;
     }
     return sumHueY[xy.second][xy.first];
 }
 
 double stats::getSumSat(pair<int, int> xy) {
-    if (xy.first == 0 && xy.second == 0) {
+    if (xy.first == -1 && xy.second == -1) {
         return 0;
     }
     return sumSat[xy.second][xy.first];
 }
 
 double stats::getSumLum(pair<int, int> xy) {
-    if (xy.first == 0 && xy.second == 0) {
+    if (xy.first == -1 && xy.second == -1) {
         return 0;
     }
     return sumLum[xy.second][xy.first];
@@ -213,12 +213,12 @@ double stats::getSumLum(pair<int, int> xy) {
 // takes a distribution and returns entropy
 // partially implemented so as to avoid rounding issues.
 // !! SHOULD NEVER BE NEGATIVE !!
-double stats::entropy(vector<int> & distn,int area){
+double stats::entropy(vector<int> & distn, int area){
     double entropy = 0.;
     for (int i = 0; i < 36; i++) {
-        if (distn[i] > 0 ) 
-            entropy += ((double) distn[i]/(double) area) 
-                                    * log2((double) distn[i]/(double) area);
+        if (distn[i] > 0 )
+            entropy += ((double) distn[i]/(double) area)
+                       * log2((double) distn[i]/(double) area);
     }
     return  -1 * entropy;
 }
@@ -232,7 +232,7 @@ double stats::entropy(vector<int> & distn,int area){
  * bins holding no pixels should not be included in the sum. */
 double stats::entropy(pair<int,int> ul, pair<int,int> lr){
     vector<int> histogram = buildHist(ul, lr);
-    int area = rectArea(ul, lr);
+    long area = rectArea(ul, lr);
     return entropy(histogram, area);
 }
 
